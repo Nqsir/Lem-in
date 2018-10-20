@@ -1,8 +1,22 @@
-# Lem-in
-Ce projet a pour but de vous faire coder un gestionaire de fourmillière.
+# Lem-in  - En cours de réalisation
+Projet réalisé en équipe avec Freddy Pupier (https://github.com/pups-enterprise).
 
-Usage :\
-./lem-in < monfichier_auformat.txt
+Ce projet a pour but de coder un gestionaire de fourmillière.
+
+Usage :
+
+    • ./lem-in < monfichier_auformat.txt
+
+Principales notions :
+
+    • Algorithme de pathfinding :
+        ◦ Recherche de la meilleure "combinaison de chemins".
+    • Problème de plus court chemin :
+        ◦ Algorithme de Dijkstra (revisité dans notre cas pour ne pas affecter les combinaisons de chemins).
+    • Gestion des contraintes :
+        ◦ Algorithme de répartitions sans collision. 
+    
+Résumé du sujet :
 
 On va s’intéresser plus particulièrement à sa partie calculs. Son fonctionnement ?
 Simple ! On monte une fourmilière avec tout son lot de tunnels et de salles, on met des
