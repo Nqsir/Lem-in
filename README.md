@@ -14,7 +14,7 @@ Principales notions :
     • Problème de plus court chemin :
         ◦ Algorithme de Dijkstra (revisité dans notre cas pour ne pas affecter les combinaisons de chemins).
     • Gestion des contraintes :
-        ◦ Algorithme de répartitions sans collision. 
+        ◦ Algorithme de répartition des fourmis sans collision. 
     
 Résumé du sujet :
 
