@@ -1,0 +1,11 @@
+100
+##start
+start 0 0
+##end
+end 1 1
+mid 3 3
+mid1 4 4
+start-mid
+start-mid1
+mid-mid1
+start-end

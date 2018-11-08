@@ -1,0 +1,38 @@
+15
+##start
+START 0 0
+##end
+END 1 1
+A 2 2
+B 3 3
+C 4 4
+D 5 5
+E 6 6
+F 7 7
+G 8 8
+H 9 9
+I 10 10
+J 11 11
+K 12 12
+M 13 13
+W 20 20
+X 21 21
+START-K
+START-C
+START-G
+K-A
+C-D
+D-A
+G-W
+W-H
+H-B
+A-E
+A-B
+B-I
+B-M
+M-END
+E-X
+X-F
+F-END
+I-J
+J-END
