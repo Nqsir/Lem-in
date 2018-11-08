@@ -1,4 +1,4 @@
-# Lem-in  - En cours de réalisation
+# Lem-in
 Projet réalisé en équipe avec Freddy Pupier (https://github.com/pups-enterprise).
 
 Ce projet a pour but de coder un gestionaire de fourmillière.
